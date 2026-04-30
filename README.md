@@ -1,5 +1,5 @@
 - Name: Kanade Nonomura
-- Affiliation: NLP Lab (Kajiwara Lab), Department of Engineering, Faculty of Engineering, Ehime University, Japan — 4th-year undergraduate student
+- Affiliation: NLP Lab (Kajiwara Lab), Mathematics and Informatics Program, Department of Science and Engineering, Graduate School of Science and Engineering, Ehime University, Japan — [1st]-year Master's student
 - Email: nonomura@ai.cs.ehime-u.ac.jp
 - Website: https://j341nono.github.io/homepage/
 
